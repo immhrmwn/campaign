@@ -41,3 +41,7 @@ The Kitabisa campaign is a social blogging site (i.e. a Kitabisa.com clone). Thi
 
 - GET and display card lists of campaign
 - Button sorting by donation goal and day left
+
+**Preview:**
+
+![Preview](./preview.png)
